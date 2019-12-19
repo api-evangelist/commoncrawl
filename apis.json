@@ -1,0 +1,76 @@
+{
+    "name": "CommonCrawl",
+    "description": "CommonCrawl is a non-profit foundation dedicated to the open web.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1920-commoncrawl.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "have api",
+        "scraping",
+        "scraping web crawler",
+        "search"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/commoncrawl\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "CommonCrawl",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1920-commoncrawl.jpg",
+            "humanURL": "http:\/\/commoncrawl.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/commoncrawl-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/commoncrawl-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/commoncrawl.org\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/commoncrawl.org\/feed\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.commoncrawl.org"
+        },
+        {
+            "type": "Curated Source",
+            "url": "http:\/\/blog.commoncrawl.org\/2015\/04\/announcing-the-common-crawl-index\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/common-crawl"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/common-crawl"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/commoncrawl"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CommonCrawl"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/commoncrawl.org\/"
+        }
+    ]
+}
